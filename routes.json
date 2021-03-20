@@ -1,0 +1,3 @@
+{
+    "/travelers/:id": "/travelers/:id?_embed=animalSightings"
+}

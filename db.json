@@ -1,0 +1,58 @@
+{
+  "travelers": [
+    {
+      "id": 1,
+      "name": "Raffy",
+      "nickname": "Rafferty",
+      "photo": "pics/raffy.jpg",
+      "likes": 1041
+    }
+  ],
+  "animalSightings": [
+    {
+      "id": 1,
+      "travelerId": 1,
+      "species": "frog",
+      "photo": "pics/frog.jpg",
+      "link": "https://youtu.be/Fa_I68L_APY",
+      "description": "Señor Frog!",
+      "likes": 21
+    },
+    {
+      "id": 2,
+      "travelerId": 1,
+      "species": "monkey",
+      "photo": "pics/monkey.jpg",
+      "link": "https://youtu.be/dy-u0voqixQ",
+      "description": "I was so impressed by the monkey's fantastic leaps!",
+      "likes": 13
+    },
+    {
+      "id": 4,
+      "travelerId": 1,
+      "species": "butterfly",
+      "photo": "pics/butterfly.JPG",
+      "link": "https://youtu.be/1z1bfyV4cF0",
+      "description": "What a sight!",
+      "likes": 0
+    },
+    {
+      "travelerId": 1,
+      "species": "ostrich",
+      "photo": "https://i.ytimg.com/vi/h-0-S6ppQ5c/maxresdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=GK1ll8e017k",
+      "description": "I love ostriches",
+      "id": 6,
+      "likes": 0
+    },
+    {
+      "species": "rhino",
+      "photo": "https://www.eurekalert.org/multimedia/pub/web/221627_web.jpg",
+      "link": "https://www.youtube.com/watch?v=GK1ll8e017k",
+      "description": "Very cool",
+      "likes": 6,
+      "travelerId": 1,
+      "id": 7
+    }
+  ]
+}
